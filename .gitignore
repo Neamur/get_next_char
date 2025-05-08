@@ -1,1 +1,9 @@
 /temp
+**/build
+**/install
+
+# MacOS specific file
+**/.DS_Store
+# clangd files
+**/.cache
+
