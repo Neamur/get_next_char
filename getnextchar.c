@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <getnextchar.h>
+#include "getnextchar.h"
 
 // only reads chars, skipping white spaces, tabs, newlines.
 
