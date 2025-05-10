@@ -28,7 +28,7 @@ project's root directory, you can use:
 add_subdirectory(get_next_char)
 ```
 
-You can also install `get_next_char`. Go to this projects and root and run the following.
+You can also install `get_next_char`. Go to this project's root and run the following.
 You can set the install path of the library, or leave it default in which case `get_next_char`
 will be installed into the default `CMAKE_INSTALL_PREFIX`.
 
